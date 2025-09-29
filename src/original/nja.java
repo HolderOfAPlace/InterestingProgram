@@ -21,6 +21,7 @@ public class nja {
 		System.out.println("Esiet sveicināti manā programmā");
 		System.out.println("Ievadiet cik reizes mest kauliņu");
 		reizes = scan.nextInt();
+		System.out.println("Test");
 		
 		mestKaulinu(reizes);
 		scan.close();
