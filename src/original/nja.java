@@ -24,6 +24,11 @@ public class nja {
 		System.out.println("Test");
 		System.out.println("eeffoc");
 		System.out.println("Instant replay");
+		System.out.println("Test");
+		System.out.println("eeffoc");
+		System.out.println("Instant replay");
+		System.out.println("Only in ohio");
+		System.out.println("Only in ohio");
 		mestKaulinu(reizes);
 		scan.close();
 	}
