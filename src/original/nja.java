@@ -22,7 +22,8 @@ public class nja {
 		System.out.println("Ievadiet cik reizes mest kauliņu");
 		reizes = scan.nextInt();
 		System.out.println("Test");
-		
+		System.out.println("eeffoc");
+		System.out.println("Instant replay");
 		mestKaulinu(reizes);
 		scan.close();
 	}
